@@ -9,7 +9,7 @@ The input data consists of bank statements produced by Action Five's bank, GLS G
 
 # Project Structure
 1. Reading in Data File(s)
-(2. Merging Data Files)
+2. Merging Data Files (might not be necessary)
 3. Sorting Data for Year-End-Report
 4. Aggregating Data for Year-End-Report
 5. Output Aggregated Data for Year-End-Report
