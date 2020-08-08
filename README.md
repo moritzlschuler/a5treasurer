@@ -8,8 +8,8 @@ Before I started this project, the bank statements have been processed by the tr
 The input data consists of bank statements produced by Action Five's bank, GLS Gemeinschaftsbank, in semicolon-delimited files, as well as a blank version of a donation receipt.
 
 # Project Structure
-1. Reading in Data File(s)
-2. Merging Data Files (might not be necessary)
+1. Reading in Data Files
+2. Merging Data Files
 3. Sorting Data for Year-End-Report
 4. Aggregating Data for Year-End-Report
 5. Output Aggregated Data for Year-End-Report
